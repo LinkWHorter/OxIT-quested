@@ -1,4 +1,3 @@
-# OxIT-quested - Ковальов Владислав - ІПЗ-41;
-Посилання на готовий сайт: linkwhorter.github.io/quested-tested/  
-Готовий html-сайт знаходиться у папці dist!  
-Для верстки було використано HTML, CSS, JS, SCSS та Gulp.
+# OxIT-quested - Kovalev Vladislav - IPZ-41;  
+The finished html site is in the dist folder!  
+HTML, CSS, JS, SCSS and Gulp were used for the layout.
